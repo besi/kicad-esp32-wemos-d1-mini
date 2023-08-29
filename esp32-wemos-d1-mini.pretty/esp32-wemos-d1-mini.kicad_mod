@@ -111,4 +111,9 @@
   (pad "38" thru_hole oval (at 13.97 8.89 270) (size 2.3 3.2) (drill 0.8 (offset 0 -0.4)) (layers *.Cu *.Mask) (tstamp 54f5acdb-131c-4caa-b307-d45315384561))
   (pad "39" thru_hole oval (at 11.43 11.43 270) (size 2.3 3.2) (drill 0.8 (offset 0 0.4)) (layers *.Cu *.Mask) (tstamp 6247ba19-bca3-4981-88e1-a040049d2d0e))
   (pad "40" thru_hole oval (at 13.97 11.43 270) (size 2.3 3.2) (drill 0.8 (offset 0 -0.4)) (layers *.Cu *.Mask) (tstamp c40446d1-a5ed-4be4-8f0b-d248c8f2abb6))
+  (model "${KIPRJMOD}/lib/esp32-wemos-d1-mini/esp32-wemos-d1-mini.step"
+    (offset (xyz 137.25 42.7 -32.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
