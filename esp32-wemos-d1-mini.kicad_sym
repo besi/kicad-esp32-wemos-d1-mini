@@ -34,7 +34,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.bastelgarage.ch/esp32minikit-wemos-1-591"
 			(at 3.81 2.54 0)
 			(effects
 				(font
